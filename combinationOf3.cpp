@@ -1,3 +1,5 @@
+//Program to generate all posible combination of three digit number
+
 #include <iostream>
 using namespace std;
 int main() {
